@@ -1,6 +1,6 @@
 # storyblok-backup-cli
 
-Interactive CLI to backup and restore [Storyblok](https://www.storyblok.com/) CMS spaces. Wraps [`storyblok-backup`](https://github.com/thomasaull/storyblok-backup) and [`storyblok-restore`](https://github.com/thomasaull/storyblok-restore) with a friendly prompt-based interface.
+Interactive CLI to backup and restore [Storyblok](https://www.storyblok.com/) CMS spaces. Wraps [`storyblok-backup`](https://github.com/webflorist/storyblok-backup) with a friendly prompt-based interface.
 
 ## Features
 
