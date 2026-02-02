@@ -24,12 +24,13 @@
         "node": ">=20"
     },
     "files": [
+        "bin.js",
         "cli.ts",
         "commands/"
     ],
     "type": "module",
     "bin": {
-        "storyblok-backup-cli": "./cli.ts"
+        "storyblok-backup-cli": "./bin.js"
     },
     "scripts": {
         "start": "npx tsx cli.ts",

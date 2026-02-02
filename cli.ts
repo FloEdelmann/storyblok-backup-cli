@@ -1,4 +1,3 @@
-#!/usr/bin/env tsx
 import { cancel, intro, isCancel, outro, select, text } from '@clack/prompts'
 import 'zx/globals'
 import 'dotenv/config'
